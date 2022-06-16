@@ -3,7 +3,7 @@
 
 ## doc
 
-[react-catchable](https://github.com/ThorinChen/Slider_Component_React/blob/main/src/Vertify/index.md)
+[react-catchable](https://github.com/ThorinChen/ErrorCatch_React/index.md)
 
 ## install
 
@@ -29,4 +29,4 @@ export default catchable(XXXComponent);
 ```
 
 #### Example
- **Demo source：[click](https://github.com/ThorinChen/Slider_Component_React/blob/main/src/Vertify/index.md)**
+ **Demo source：[click](https://github.com/ThorinChen/ErrorCatch_React/demo/index.html)**
