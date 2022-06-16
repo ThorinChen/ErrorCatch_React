@@ -3,7 +3,7 @@
 
 ## doc
 
-[react-catchable](https://github.com/ThorinChen/ErrorCatch_React/index.md)
+[react-catchable](https://github.com/ThorinChen/ErrorCatch_React/blob/main/README.md)
 
 ## install
 
@@ -29,4 +29,4 @@ export default catchable(XXXComponent);
 ```
 
 #### Example
- **Demo source：[click](https://github.com/ThorinChen/ErrorCatch_React/demo/index.html)**
+ **Demo source：[click](https://github.com/ThorinChen/ErrorCatch_React/blob/main/demo/index.html)**
